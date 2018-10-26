@@ -1,0 +1,20 @@
+header {
+	text-align: center;
+}
+
+body {
+	background-image: url("space.jpg");
+	text-align: center;
+	color: white;
+}
+
+footer { 
+
+ }
+
+ img {
+ 	display: block;
+ 	margin-right: auto;
+ 	margin-left: auto;
+ 	width: 15%;
+ }
